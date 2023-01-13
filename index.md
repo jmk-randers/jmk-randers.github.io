@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+# Tanker om Open Source & IT Arkitektur
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+"No man is an island entire of itself; every man is a piece of the continent, a part of the main." *[-John Donne &#34;Devotions upon Emergent Occasions&#34; 1624](https://en.wikipedia.org/wiki/Devotions_upon_Emergent_Occasions)*
